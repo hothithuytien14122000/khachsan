@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.menu.resources
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\source\repos\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.login.resources
